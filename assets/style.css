@@ -1,0 +1,52 @@
+
+body{
+    margin: 0px;
+    padding: 0px;
+    background: url('/assets/charity1.jpeg') no-repeat center center fixed;
+    background-size: cover;
+    background-attachment: fixed;
+   
+}
+img, svg {
+    vertical-align: middle;
+    height: 117px;
+    margin-left: 72px;
+}
+
+
+.temp{
+    color: white;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 100px;
+    padding: 50px;
+    font-weight: bold;
+   
+
+}
+.temp h2{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    color: yellow;
+    
+    font-size: 3rem;
+}
+
+.temp h4{
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+
+
+.container{
+    margin-top: 30px;
+    padding: 5px;
+}
+
+.container h1{
+    color: white;
+}
